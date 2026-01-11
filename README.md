@@ -1,101 +1,91 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
-<h3 align="center">Software Developer Engineer | Angular Developer | DSA Enthusiast</h3>
+<h3 align="center">
+Software Development Engineer | Applied AI & GenAI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/chandan578" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chandan578" />
+  <a href="https://linkedin.com/in/chandan578">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/chandan578" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="chandan578" />
+  <a href="mailto:chandu578000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/chandan578" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="chandan578" />
+  <a href="https://leetcode.com/chandan578">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/chandan578" target="blank">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="chandan578" />
-  </a>
-  <a href="https://www.hackerrank.com/chandankumar2611" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="chandan578" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building **MindCare** - A mental health application
-- 🌱 Deepening my knowledge in **Advanced DSA, Angular, and Node.js**
-- 💬 Ask me about **Angular frameworks and Data Structures & Algorithms**
-- 📫 How to reach me: **chandu578000@gmail.com**
-
-
----
-
-### 🛠 Tech Stack
-
-#### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Competitive Programming
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### Tools I Use
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- 💼 Software Development Engineer with **1+ year industry experience**
+- 🤖 Transitioning into **AI / Machine Learning / GenAI**
+- 🔭 Building **LLM Porjects**
+- 🌱 Learning by doing: **ML, NLP, LLMs, RAG**
+- 🧠 Strong foundation in **DSA & problem-solving**
+- 📫 **chandu578000@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 Current Focus
+
+- Applied Machine Learning (end-to-end projects)
+- Generative AI & LLM-based systems
+- Python for data & ML
+- Production-ready AI integration
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`Python` `C++` `JavaScript` `TypeScript`
+
+**AI / ML**  
+`Machine Learning` `NLP` `Feature Engineering` `Model Evaluation`
+
+**Web / Backend**  
+`Angular` `Node.js`
+
+**Databases**  
+`MySQL` `PostgreSQL`
+
+**Tools**  
+`Git` `GitHub` `VS Code` `Jupyter`
+
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction System
+- Supervised ML classification project
+- Feature engineering & evaluation
+- Healthcare use case
+
+🔗 Repo: [https://github.com/chandan578/Heart-Disease-Prediction](https://github.com/chandan578/heart-disease-prediction-system)
+
+---
+
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chandan578&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan578&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan578&theme=react-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan578&layout=compact&theme=radical&langs_count=6" />
-<!--   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=chandan578&theme=radical&column=7" /> -->
-</p>
-
----
-<!--
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity
-1. 🎉 Merged PR #1 in [MindCare](https://github.com/chandan578/MindCare)
-2. 🚀 Pushed 3 commits to [LeetCode-Solutions](https://github.com/chandan578/LeetCode-Solutions)
-3. 💪 Solved 5 problems on LeetCode
-4. 🌱 Started learning Advanced Angular Concepts
-<!--END_SECTION:activity
-
 ---
 
-### 🏆 Achievements
+## 📊 GitHub Stats
 
-- Ranked in top 10% on LeetCode (200+ problems solved)
-- 5-star coder on CodeChef
-- Hackathon winner at [Event Name] 2023
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandan578&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chandan578&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan578&layout=compact&theme=radical&langs_count=6)
+
 
 ---
--->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandan578&label=Profile%20views&color=0e75b6&style=flat" alt="chandan578" />
+  <img src="https://komarev.com/ghpvc/?username=chandan578&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
